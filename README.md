@@ -15,7 +15,7 @@ Desarrollador en formación con alta capacidad de adaptación, enfocado en el tr
 
 ### 🛠️ Habilidades Técnicas & Competencias
 
-* **Desarrollo & Tecnologías:** JavaScript, Python, ASP.NET, Flutter, SQL, MongoDB, Git, GitHub
+* **Desarrollo & Tecnologías:** JavaScript, ASP.NET, Flutter, SQL, MongoDB, Git, GitHub
 * **Metodologías:** Scrum / Trabajo Ágil
 * **Habilidades Blandas:** Liderazgo, Comunicación asertiva, Trabajo en equipo, Puntualidad y Dinamismo
 
