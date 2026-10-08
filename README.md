@@ -29,5 +29,5 @@ Desarrollador en formación con alta capacidad de adaptación, enfocado en el tr
 ---
 
 📫 **Contacto**
-* **Email:** Samupitalua@gmail.com
+* **Email:** moreloshawer76@gmail.com
 * **Ubicación:** Cartagena, Colombia
